@@ -3,7 +3,7 @@
 
 
 
-This is a resource pack for Minecraft that changes the sound effect of the Totem of Undying to the iconic **Re:Zero death sound**. Currently, it supports **Minecraft 1.21.4**, but additional version support may be added in the future.
+This is a resource pack for Minecraft that changes the sound effect of the Totem of Undying to the iconic **Re:Zero death sound**. Currently, it supports **Minecraft 1.21.4**, but I may add additional version support in the future.
 ## Features
 
 - **Custom sound for the Totem of Undying**: The sound is replaced with the iconic death sound from **Re:Zero**.
